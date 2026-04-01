@@ -75,8 +75,6 @@ running dependencies:
 - sponsors 💸 (optional but appreciated)
 ```
 
----
-
 
 ---
 
@@ -92,6 +90,7 @@ running dependencies:
 ```
 
 > your support keeps the network alive.
+
 > become a sponsor → your name will be written into the system.
 
 ---
