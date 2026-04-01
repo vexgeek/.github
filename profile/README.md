@@ -77,6 +77,27 @@ running dependencies:
 
 ---
 
+
+---
+
+## 💰 $ cat sponsors.list
+
+```bash
+[+] loading sponsors...
+
+> root@vexgeek:~# access /sponsors
+
+- waiting...
+
+```
+
+> your support keeps the network alive.
+> become a sponsor → your name will be written into the system.
+
+---
+
+
+
 ## 📊 $ system_status
 
 ```bash
